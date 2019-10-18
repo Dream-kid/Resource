@@ -1,0 +1,45 @@
+Solve and develop your skill to design algo and solution >...
+
+1.LCA : https://vjudge.net/contest/241642#problem/H
+2.LCA/RMQ : https://vjudge.net/contest/242875#overview
+3.LCA2 : https://vjudge.net/contest/243648#problem/O
+4.Minimum spanning tree : https://vjudge.net/contest/244811#problem
+5.DSU on Tree : https://vjudge.net/contest/244580#problem
+6.Segment tree and Trie : https://vjudge.net/contest/239048#problem/J
+7.Segment tree and binary search tree and TRIE : (st , bst, trie ) https://vjudge.net/contest/234063#problem/I
+8.Basic segment tree : https://vjudge.net/contest/236781#problem/F
+9.Classic segment tree : https://vjudge.net/contest/235727#problem/L
+10.Segment with lazy propagation : https://vjudge.net/contest/234037#problem/L
+11.segment tree : https://vjudge.net/contest/232190#problem/I
+12.Segment tree : https://vjudge.net/contest/238145#problem
+13.Segment tree with lazy : https://vjudge.net/contest/207527#problem
+14.Fenwick Tree(BIT) :https://vjudge.net/contest/232650#problem 
+15. DSU ON TREE : https://vjudge.net/contest/239909#problem 
+16 . Geometry : https://vjudge.net/contest/236166#problem/D
+17.  Geometry : https://vjudge.net/contest/236167#problem/L
+18. Geometry : https://vjudge.net/contest/236171#problem/M
+19. (important Geometry) : https://vjudge.net/contest/236641#problem/D
+20.(important Convex hull) : https://vjudge.net/contest/216728#problem
+21 (convex hull ) : https://vjudge.net/contest/204012#problem
+22. Suffix array : https://vjudge.net/contest/207538#problem
+23 . String searching : https://vjudge.net/contest/50409#problem/J
+24. Basic Hashing : https://vjudge.net/contest/214633#problem/D
+25. Hashing long contest :https://vjudge.net/contest/102317#problem
+
+26. Centroid decomposition : https://vjudge.net/contest/196362#problem/J
+27. Sqrt decomposition : https://vjudge.net/contest/229147#problem
+28 . sqrt + Mo : https://vjudge.net/contest/212957#problem
+
+29 . Shortest path : https://vjudge.net/contest/82857#problem/G 
+30 . dfs and shortest path : https://vjudge.net/contest/65610#problem/H
+31 . shortest path : https://vjudge.net/contest/179903#problem
+32 . Medium shortest path : https://vjudge.net/contest/181842#problem/E
+33. DFS BFS : https://vjudge.net/contest/222878#problem
+34 . Graph dfs and bfs : https://vjudge.net/contest/152205#problem
+35 . Number theory  : https://vjudge.net/contest/8689#problem/J
+36 . Number theory : https://vjudge.net/contest/42599#problem/H
+37. Basic Combinatorics : https://vjudge.net/contest/140067#problem
+38. Probability : https://vjudge.net/contest/100382#problem
+39. Probability and expectation : https://vjudge.net/contest/25713#problem
+
+....................*******************EnD*******************.......................
